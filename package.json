@@ -1,0 +1,13 @@
+{
+  "name": "herois-rpg",
+  "version": "1.0.0",
+  "description": "Sistema de heróis para jogos RPG em JavaScript",
+  "main": "Heroi.js",
+  "scripts": {
+    "start": "node exemplo.js",
+    "test": "node exemplo.js"
+  },
+  "keywords": ["rpg", "game", "javascript", "heroi"],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
